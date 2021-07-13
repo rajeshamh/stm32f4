@@ -1,0 +1,14 @@
+stm32f407xx_usart.c:24:6:USART_SetBaudRate	40	static
+stm32f407xx_usart.c:100:7:USART_Init	24	static
+stm32f407xx_usart.c:212:9:USART_Peripheral_ClockControl	16	static
+stm32f407xx_usart.c:292:6:USART_PeripheralControl	16	static
+stm32f407xx_usart.c:320:9:USART_GetFlagStatus	16	static
+stm32f407xx_usart.c:343:6:USART_SendData	32	static
+stm32f407xx_usart.c:405:6:USART_ReceiveData	32	static
+stm32f407xx_usart.c:479:9:USART_SendDataIT	32	static
+stm32f407xx_usart.c:515:9:USART_ReceiveDataIT	32	static
+stm32f407xx_usart.c:551:6:USART_ClearFlag	16	static
+stm32f407xx_usart.c:559:6:USART_IRQITConfig	16	static
+stm32f407xx_usart.c:601:6:USART_IRQPriorityConfig	24	static
+stm32f407xx_usart.c:632:6:USART_IRQHandling	32	static
+stm32f407xx_usart.c:934:13:USART_ApplicationEventCallback	16	static
